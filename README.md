@@ -1,7 +1,7 @@
-# Livro de receitas :man_cook:
+#  Primeiro Projeto de Git e GitHub :man_technologist:
 
-Olá! Bem vindo ao meu livro de receitas :fleur_de_lis:
+Olá! Bem vindo ao meu  primeiro projeto de Git e GitHub :airplane:
 
-- Strogonofe
-- Pavê
-- Bolo de cenoura
+- git commit -m
+- git push
+- git Pull

@@ -1,10 +1,9 @@
-# Estrogonofe de Frango :chicken:
+# Git e GitHub skills
 
-## ingredientes
+## comandos aprendidos 
 
-- 1
-- 2
-- 2
-- 2
-- 2
-- 2
+- 1 git add nomeArquivo
+- 2 git add *
+- 3 git add .
+- 4 git status
+- 5 git Push
