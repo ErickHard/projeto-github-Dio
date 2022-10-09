@@ -20,3 +20,4 @@
 -  17 eviar para remoto **push** de um repositório deve conter o nome do repositório remoto e o branch. git push -u origin master
 - 18 git push
 - 19 git pull 
+- ---------------------------------------------------------------------------------------------------------------------------------
