@@ -235,7 +235,7 @@ Os demais **pushes** não precisam dessa informação
 
 	git clone git@github.com:leocomelli/curso-git.git
 
-### Tags
+### Tags.
 
 ##### Criando uma tag leve
 
