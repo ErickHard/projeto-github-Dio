@@ -1,6 +1,6 @@
-# Comandos para Git e GitHub
+# Comandos para Git e GitHub 
 
-## Principais comandos
+## Principais comandos resumido
 
 - 1 git init
 - 3 git config --global user.name "Leonardo Comelli"

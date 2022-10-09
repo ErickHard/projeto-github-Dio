@@ -2,7 +2,5 @@
 
 Olá! Bem vindo ao meu  primeiro projeto de Git e GitHub :airplane:
 
-- git commit -m
-- git push
-- git Pull
+- Nesse projeto você encontrara todos os códigos para Git e GitHub e como executa-los corretamente. 
 - --------------------------------------------------------------------------------
