@@ -101,7 +101,7 @@ Os nomes de arquivos/diretórios ou extensões de arquivos listados no arquivo *
 
 	git commit meuarquivo.txt -m "minha mensagem de commit"
 
-### Remover arquivo/diretório
+### Remover arquivo/diretório.
 
 ##### Remover arquivo
 
